@@ -10,4 +10,4 @@ receive in their personal devices. Here, we procure data
 of signal strengths from various routers, map them to the
 user’s location and consider this mapping as a
 classification problem. We train a neural network using
-the weights obtained by the proposed
+the weights obtained by the proposed idea.
